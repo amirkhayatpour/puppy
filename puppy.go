@@ -28,3 +28,7 @@ func VersionOne() {
 func VersionOneTwo() {
 	fmt.Println("puppy package version: v1.2.0")
 }
+
+func VersionOneThree() {
+	fmt.Println("puppy package version: v1.3.0")
+}
