@@ -24,3 +24,7 @@ func BigBarks() string {
 func VersionOne() {
 	fmt.Println("puppy package version: v1.0.0")
 }
+
+func VersionOneTwo() {
+	fmt.Println("puppy package version: v1.2.0")
+}
